@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    https://github.com/twedty
+    <img
+      className="card-img-top"
+      src="https://avatars.githubusercontent.com/u/157083523?v=4"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        James Twedt
+      </div>
+      <p
+        className="card-text"
+      >
+        I am a gamer at heart and I love to solve problems. Coding has been a really fun yet hard way to do both of them.
+      </p>
+    </div>
+  </div>
+</div>
+`;
